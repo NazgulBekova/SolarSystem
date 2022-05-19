@@ -21,5 +21,12 @@ public class Main {
         FacX.color="green";
         FacX.radius="24527575753km";
         FacX.size="15465865343412m";
+
+        //adding features for planet1
+        Planet1Features GulK=new Planet1Features();
+        GulK.color="blue";
+        GulK.size="23466545345345";
+        GulK.name="preacheX";
+
     }
 }
